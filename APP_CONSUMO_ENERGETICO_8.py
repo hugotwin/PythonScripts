@@ -20,7 +20,7 @@ def enviar_email(para, assunto, corpo):
     mail.Send()
 
 # Suas credenciais do Twilio
-account_sid ='AC0a74e009e3115f542403f0c671cb0388'
+account_sid ='AC0a74e009e3115f542403f0c671cb0388_'
 auth_token = 'da6b9d0d7bec1e9afa50127dd6ddcf7e'
 
 # Função para enviar uma mensagem SMS
